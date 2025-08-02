@@ -28,7 +28,7 @@ export default function App() {
             <a href="#projects" className="inline-block bg-purple-600 text-white px-6 py-2 rounded hover:bg-purple-700">See My Work</a>
           </div>
           <div className="md:w-1/2 flex justify-center">
-            <img src="foto1.jpg" alt="foto_dela" className="w-72 h-72 rounded-full object-cover border-4 border-slate-200 shadow-lg" />
+          <img src="foto1.jpg" alt="foto_dela" className="w-72 h-72 rounded-full object-cover border-4 border-slate-200 shadow-lg" />
           </div>
         </div>
       </section>
