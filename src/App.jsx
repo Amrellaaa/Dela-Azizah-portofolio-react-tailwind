@@ -28,7 +28,7 @@ export default function App() {
             <a href="#projects" className="inline-block bg-purple-600 text-white px-6 py-2 rounded hover:bg-purple-700">See My Work</a>
           </div>
           <div className="md:w-1/2 flex justify-center">
-            <img src="/image/foto1.jpg" alt="foto_dela" className="w-72 h-72 rounded-full object-cover border-4 border-slate-200 shadow-lg" />
+            <img src="foto1.jpg" alt="foto_dela" className="w-72 h-72 rounded-full object-cover border-4 border-slate-200 shadow-lg" />
           </div>
         </div>
       </section>
@@ -40,13 +40,13 @@ export default function App() {
           <h1 className="text-3xl text-center font-bold text-slate-800 mb-10">Learning Portfolios</h1>
           <div className="grid md:grid-cols-2 gap-8">
             <div className="bg-gray-50 rounded-lg shadow hover:shadow-lg transition p-4">
-              <img src="/image/Portfolio1.png" alt="Wisata Spot Bogor" className="w-full h-48 object-cover rounded-md mb-4" />
+              <img src="Portfolio1.png" alt="Wisata Spot Bogor" className="w-full h-48 object-cover rounded-md mb-4" />
               <h4 className="text-xl font-semibold mb-2">Wisata Spot Bogor</h4>
               <p className="text-slate-600 text-sm mb-2">Website wisata sederhana menggunakan HTML & CSS untuk menampilkan informasi tempat wisata di Bogor.</p>
               <a href="https://github.com/Amrellaaa/Web-Wisata" className="text-purple-600 hover:underline">View Project</a>
             </div>
             <div className="bg-gray-50 rounded-lg shadow hover:shadow-lg transition p-4">
-              <img src="/image/portfolio2.png" alt="Daftar Kontak" className="w-full h-48 object-cover rounded-md mb-4" />
+              <img src="portfolio2.png" alt="Daftar Kontak" className="w-full h-48 object-cover rounded-md mb-4" />
               <h4 className="text-xl font-semibold mb-2">Aplikasi Daftar Kontak</h4>
               <p className="text-slate-600 text-sm mb-2">Aplikasi daftar kontak sederhana yang dibuat menggunakan React dan Tailwind CSS.</p>
               <a href="https://github.com/Amrellaaa/aplikasi-kontak-tailwind" className="text-purple-600 hover:underline">View Project</a>
